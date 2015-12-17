@@ -17,7 +17,8 @@
     "**/.*",
     "node_modules",
     "bower_components",
-    "examples"
+    "Gruntfile.js",
+    "README.md"
   ],
   "dependencies": {
     "uri-templates": "~0.1.5",
