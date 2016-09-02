@@ -674,7 +674,7 @@ module.provider('$modelFactory', function(){
                     if(params.afterRequest) {
                         var transform = params.afterRequest(response.data.data);
                         if(transform) {
-                            response.data = transform;
+                            response.data.data = transform;
                         }
                     }
 
