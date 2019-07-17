@@ -13,3 +13,6 @@ Why would you use this over other available solutions?
 - Its full of awesome features
 
 
+THIS MESSAGE IS TO TEST INTEGRATION OF GITHUB(ANGULAR-MODEL-FACTORY) AND JIRA.
+
+
